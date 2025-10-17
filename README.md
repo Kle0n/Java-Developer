@@ -958,3 +958,6 @@
 
 ## Источники
 + [Вопросы на собеседование Junior Java Developer](https://jsehelper.blogspot.ru)
+
++ merged from [link1](https://github.com/enhorse/java-interview) last merge 17.10.2025
+
