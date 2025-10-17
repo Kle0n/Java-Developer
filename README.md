@@ -1,7 +1,8 @@
 # Вопросы для собеседования на Java Developer
 
 
-+ [ООП](#ООП) 
++ [ООП](#ООП)
++ [JVM](#jvm)
 + [Java Core](#java-core) 
 + [Java Collections Framework](#java-collections) 
 + [Java 8](#java-8)
@@ -46,6 +47,16 @@
 + [OpenAPI](oop.md#OpenAPI)
 + [Тестирование микросервисов](oop.md#Тестирование-микросервисов)
 + [Распределенная трассировка](oop.md#Распределенная-трассировка)
+
+[к оглавлению](#Вопросы-для-собеседования-на-java-developer)
+
+## JVM
++ [За что отвечает JVM](jvm.md#За-что-отвечает-JVM)
++ [Classloader](jvm.md#Classloader)
++ [Области данных времени выполнения](jvm.md#Области-данных-времени-выполнения)
++ [Frames](jvm.md#Frames)
++ [Execution Engine](jvm.md#Execution-Engine)
++ [Полезные ссылки](jvm.md#Полезные-ссылки)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
